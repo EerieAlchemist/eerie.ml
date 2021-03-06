@@ -1,7 +1,7 @@
 # eerie.ml
 The source code for eerie.ml, my personal site.
 
-####Future Updates:
+**Future Updates:**
 - [x] More animations.
 - [x] Wikis & documentation for my projects.
 - [x] Translation feature.
