@@ -1,7 +1,12 @@
 # eerie.ml
-The source code for eerie.ml. This is my personal site, and has been updated from the crappy original. Feel free to use any code present here. The only thing I ask is that, if you do, you make a citation at either the top of your class or comment out part of a line. 
+The source code for eerie.ml, my personal site.
 
-This repository is liscensed under the Apache 2.0 License:
+####Future Updates:
+- [x] More animations.
+- [x] Wikis & documentation for my projects.
+- [x] Translation feature.
+
+This repository is licensed under the Apache 2.0 License, and may be reproduced under author consent:
 
 ```
 "License" shall mean the terms and conditions for use, reproduction,
