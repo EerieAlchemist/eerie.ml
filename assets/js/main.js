@@ -1,5 +1,3 @@
-// this took me 4 fucking hours, im actually proud of it, thank goodness for docs
-
 const showMenu = (toggleId, navId) =>{
     const toggle = document.getElementById(toggleId),
     nav = document.getElementById(navId)
@@ -26,7 +24,7 @@ navLink.forEach(n => n.addEventListener('click', linkAction));
 const sr = ScrollReveal({
     origin: 'top',
     distance: '80px',
-    duration: 2000,
+    duration: 750,
     reset: true
 });
 
