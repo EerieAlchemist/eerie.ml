@@ -1,5 +1,5 @@
 # eerie.ml
-The source code for [eerie.ml](https://eerie.ml), my personal site.
+The source code for [eerie.codes](https://eerie.codes), my personal site.
 
 **Future Updates:**
 - [x] More animations.
