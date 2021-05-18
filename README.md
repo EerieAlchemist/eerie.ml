@@ -1,4 +1,4 @@
-# eerie.ml
+# eerie.codes
 The source code for [eerie.codes](https://eerie.codes), my personal site.
 
 **Future Updates:**
